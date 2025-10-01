@@ -16,5 +16,5 @@
    👋 ABOUT ME
 </h3>
   <p> Hi there, i am zcjng and i like many things 💤  </p>
-  <p>Currently a sophomore studying computer science and hoping to create stuff with python </p>
+  <p>Currently a sophomore studying computer science and hoping to create stuff with python 🐍 </p>
   
