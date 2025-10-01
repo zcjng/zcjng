@@ -9,3 +9,9 @@
 <p src=“” align="center">
   website ↔ projects
 <p>
+
+---
+
+## 🔍 ABOUT ME
+
+  - Hi there, my name is Felix  
