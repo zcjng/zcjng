@@ -13,8 +13,9 @@
 ---
 
 <h3>
-   ABOUT ME
+   👋 ABOUT ME
 </h3>
   <p>
-   Hi there, my name is Felix  
+      Hi there, i am zcjng
+      Currently a sophomore studying computer science and hoping to create stuff with python
   </p>
