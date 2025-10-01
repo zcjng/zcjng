@@ -12,5 +12,7 @@
 
 ---
 
-## 🔍 ABOUT ME
+<h1>
+  🔍 ABOUT ME
+</h1>
   - Hi there, my name is Felix  
