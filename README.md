@@ -12,7 +12,9 @@
 
 ---
 
-<h1>
-  🔍 ABOUT ME
-</h1>
-  - Hi there, my name is Felix  
+<h3>
+   ABOUT ME
+</h3>
+  <p>
+   Hi there, my name is Felix  
+  </p>
