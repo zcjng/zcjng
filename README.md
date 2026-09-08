@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  i use arch btw and hyprland btw...
+  i use arch and hyprland btw...
 </p>
 
 <p src=“” align="center">
