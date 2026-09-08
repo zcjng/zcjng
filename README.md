@@ -16,5 +16,5 @@
    👋 ABOUT ME
 </h3>
   <p> Hi there, i am and i like many things 💤  </p>
-  <p>Currently on 🐍 </p>
+  <p> Languages : ![Python](https://shields.io)|![C](https://shields.io)|![C++](https://shields.io) </p>
   
