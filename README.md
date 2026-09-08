@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://media1.tenor.com/m/7dOo3hqM20AAAAAd/phoebe-wuthering-waves.gifsss" width="250" height="200" alt="Gif">
+  <img src=https://media1.tenor.com/m/7dOo3hqM20AAAAAd/phoebe-wuthering-waves.gifsss" width="300" height="150" alt="Gif">
 </p>
 
 <p align="center">
