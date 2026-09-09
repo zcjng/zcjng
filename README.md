@@ -21,10 +21,8 @@
 <hr>
   <div align="center">
     <img src="https://img.shields.io/badge/C%20Lang-7B68EE?style=for-the-badge&logo=c&&logoColor=white" alt="C Lang">
-    <img src="https://img.shields.io/badge/c%2B%2B%20lang-00008B?style=for-the-badge&logo=c%2B%2B&logoColor=white
-">
+    <img src="https://img.shields.io/badge/c%2B%2B%20lang-00008B?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Lang">
     <img src="https://img.shields.io/badge/python-%233C2179?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
   </div>
 <hr>
 
